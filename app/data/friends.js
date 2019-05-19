@@ -1,36 +1,20 @@
 let friends = [
-    // {
-    //     "name":"Ahmed",
-    //     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    //     "scores":[
-    //         5,
-    //         1,
-    //         4,
-    //         4,
-    //         5,
-    //         1,
-    //         2,
-    //         5,
-    //         4,
-    //         1
-    //       ]
-    //   },
-      // {
-      //   "name":"Mojo",
-      //   "photo":"https://avatars2.githubusercontent.com/u/27834803?s=460&v=4",
-      //   "scores":[
-      //       5,
-      //       1,
-      //       2,
-      //       1,
-      //       1,
-      //       1,
-      //       2,
-      //       5,
-      //       5,
-      //       2
-      //     ]
-      // }
+      {
+        "name": "Maurice",
+        "photo": "https://avatars2.githubusercontent.com/u/27834803?s=460&v=4",
+        "scores": [
+          3,
+          2,
+          4,
+          2,
+          4,
+          2,
+          1,
+          3,
+          4,
+          4
+        ]
+      }
 ];
 
 module.exports = friends;
